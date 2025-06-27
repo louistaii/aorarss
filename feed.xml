@@ -3,5 +3,50 @@
     <title>Scraper Triggers</title>
     <description>RSS feed for triggering scraper tasks</description>
     <link>https://example.com</link>
-  <item><title>Scrape Aviation News</title><description>News scraping requested at 2025-06-27 13:34:30</description><link>https://example.com/news</link><pubDate>Fri, 27 Jun 2025 13:34:30 GMT</pubDate><guid>Scrape Aviation News-1751002470.682145</guid></item><item><title>Scrape Weather - KJFK</title><description>Weather scraping requested at 2025-06-27 13:34:28</description><link>https://example.com/weather</link><pubDate>Fri, 27 Jun 2025 13:34:29 GMT</pubDate><guid>Scrape Weather - KJFK-1751002469.276461</guid></item></channel>
+  <item><title>TAF Update - KLAX</title><description>Terminal Aerodrome Forecast for KLAX:
+
+TAF for KLAX
+Issued: 270543Z
+Valid: 2706/2812
+
+Base Forecast:
+  Wind: 260° at 10 knots
+  Visibility: Greater than 6 miles
+  Clouds: Overcast at 800 feet
+
+FM270800 270800:
+  Wind: Variable at 03 knots
+  Visibility: Greater than 6 miles
+  Clouds: Overcast at 500 feet
+
+FM271600 271600:
+  Wind: Variable at 03 knots
+  Visibility: Greater than 6 miles
+  Clouds: Overcast at 1000 feet
+
+FM271900 271900:
+  Wind: 260° at 06 knots
+  Visibility: Greater than 6 miles
+  Clouds: Scattered clouds at 1200 feet
+
+FM272100 272100:
+  Wind: 260° at 12 knots
+  Visibility: Greater than 6 miles
+  Clouds: Scattered clouds at 1500 feet
+
+FM272300 272300:
+  Wind: 260° at 12 knots
+  Visibility: Greater than 6 miles
+  Clouds: Broken clouds at 1200 feet
+
+FM280400 280400:
+  Wind: 260° at 06 knots
+  Visibility: Greater than 6 miles
+  Clouds: Overcast at 800 feet
+
+FM280800 280800:
+  Wind: Variable at 03 knots
+  Visibility: Greater than 6 miles
+  Clouds: Overcast at 600 feet
+</description><link>https://aviationweather.gov/taf/data?ids=KLAX</link><pubDate>Fri, 27 Jun 2025 15:26:50 GMT</pubDate><guid>TAF Update - KLAX-1751009210.661522</guid></item><item><title>Scrape Aviation News</title><description>News scraping requested at 2025-06-27 13:34:30</description><link>https://example.com/news</link><pubDate>Fri, 27 Jun 2025 13:34:30 GMT</pubDate><guid>Scrape Aviation News-1751002470.682145</guid></item><item><title>Scrape Weather - KJFK</title><description>Weather scraping requested at 2025-06-27 13:34:28</description><link>https://example.com/weather</link><pubDate>Fri, 27 Jun 2025 13:34:29 GMT</pubDate><guid>Scrape Weather - KJFK-1751002469.276461</guid></item></channel>
 </rss>
