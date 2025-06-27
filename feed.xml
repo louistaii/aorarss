@@ -1,0 +1,7 @@
+<rss version="2.0">
+  <channel>
+    <title>Scraper Triggers</title>
+    <description>RSS feed for triggering scraper tasks</description>
+    <link>https://example.com</link>
+  <item><title>Scrape Weather - KJFK</title><description>Weather scraping requested at 2025-06-27 13:34:28</description><link>https://example.com/weather</link><pubDate>Fri, 27 Jun 2025 13:34:29 GMT</pubDate><guid>Scrape Weather - KJFK-1751002469.276461</guid></item></channel>
+</rss>
