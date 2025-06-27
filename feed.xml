@@ -3,5 +3,5 @@
     <title>Scraper Triggers</title>
     <description>RSS feed for triggering scraper tasks</description>
     <link>https://example.com</link>
-  <item><title>Scrape Weather - KJFK</title><description>Weather scraping requested at 2025-06-27 13:34:28</description><link>https://example.com/weather</link><pubDate>Fri, 27 Jun 2025 13:34:29 GMT</pubDate><guid>Scrape Weather - KJFK-1751002469.276461</guid></item></channel>
+  <item><title>Scrape Aviation News</title><description>News scraping requested at 2025-06-27 13:34:30</description><link>https://example.com/news</link><pubDate>Fri, 27 Jun 2025 13:34:30 GMT</pubDate><guid>Scrape Aviation News-1751002470.682145</guid></item><item><title>Scrape Weather - KJFK</title><description>Weather scraping requested at 2025-06-27 13:34:28</description><link>https://example.com/weather</link><pubDate>Fri, 27 Jun 2025 13:34:29 GMT</pubDate><guid>Scrape Weather - KJFK-1751002469.276461</guid></item></channel>
 </rss>
